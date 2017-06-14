@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freenas on Joe&#39;s Portfolio</title>
+    <link>https://cyberpirate.github.io/tags/freenas/</link>
+    <description>Recent content in Freenas on Joe&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 12 Jun 2017 15:23:23 -0400</lastBuildDate>
+    
+	<atom:link href="https://cyberpirate.github.io/tags/freenas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>jailUserManager.py</title>
+      <link>https://cyberpirate.github.io/post/jailusermanager.py/</link>
+      <pubDate>Mon, 12 Jun 2017 15:23:23 -0400</pubDate>
+      
+      <guid>https://cyberpirate.github.io/post/jailusermanager.py/</guid>
+      <description>Goal Fix incorrect permissions on mounted files in FreeNAS and add relevant users/groups to any jails that need access to files.
+Implementation This python script scans the configured folders for incorrect permissions and fixes them. It also scans any jails for missing users/groups and adds them if neccessary.
+Completed  Scans for incorrect permissions Scans for missing users in jails  Future goals None yet
+Source Code</description>
+    </item>
+    
+  </channel>
+</rss>
