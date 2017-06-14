@@ -6,6 +6,8 @@
     <description>Recent content in Javascript on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
+    <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Tue, 21 Apr 2015 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>iSpeech-Speech-Recognition-ASR-Voice-Recognition.js</title>
       <link>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Voice Recognition iSpeech API using Javascript.
 Implementation The SDK uses getUserMedia() to record audio from the browser, encodes it to speex, then streams the data to the iSpeech API using a WebSocket.
@@ -27,7 +29,7 @@ My contribution I developed and maintained this project through its lifecycle, a
       <title>iSpeech-Text-to-Speech-TTS-Speech-Synthesis.js</title>
       <link>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Text to Speech iSpeech API using Javascript.
 Implementation This SDK uses HTML5 &amp;lt;audio&amp;gt; tags to play synthesized text in the browser.

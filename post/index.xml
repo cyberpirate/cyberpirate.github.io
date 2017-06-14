@@ -6,6 +6,8 @@
     <description>Recent content in Posts on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
+    <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Mon, 22 May 2017 15:00:10 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/post/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>jailUserManager.py</title>
       <link>http://www.joei.tech/post/jailusermanager.py/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/jailusermanager.py/</guid>
       <description>Goal Fix incorrect permissions on mounted files in FreeNAS and add relevant users/groups to any jails that need access to files.
 Implementation This python script scans the configured folders for incorrect permissions and fixes them. It also scans any jails for missing users/groups and adds them if necessary.
@@ -27,7 +29,7 @@ Source Code</description>
       <title>PersonalChina</title>
       <link>http://www.joei.tech/post/personalchina/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/personalchina/</guid>
       <description>Goal The goal of this project is to ensure that any software on my system can not phone home without my express approval.
 Implementation This project configures VyOS firewall rules to create a whitelist that the firewall uses to filter traffic.
@@ -38,7 +40,7 @@ Completed  rule configuration command line interface expiring rules  Future goal
       <title>DataStore</title>
       <link>http://www.joei.tech/post/datastore/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/datastore/</guid>
       <description>Goal DataStore is designed to store many small files with metadata attached to each file. This metadata could be searched later to download the files that fit the search query.
 Implementation DataStore is written using php for processing. MySQL is used to store and search the metadata and Apache is used to serve the uploaded files.
@@ -49,7 +51,7 @@ Completed  Uploading Files Searching metadata Downloading Files  Future goals  A
       <title>DataStoreLib.py</title>
       <link>http://www.joei.tech/post/datastorelib.py/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/datastorelib.py/</guid>
       <description>Goal DataStoreLib.py is a python SDK designed to access the DataStore API.
 Implementation DataStoreLib.py simplifies the DataStore API into two python functions
@@ -60,7 +62,7 @@ Implementation DataStoreLib.py simplifies the DataStore API into two python func
       <title>iSpeech-Speech-Recognition-ASR-Voice-Recognition.js</title>
       <link>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Voice Recognition iSpeech API using Javascript.
 Implementation The SDK uses getUserMedia() to record audio from the browser, encodes it to speex, then streams the data to the iSpeech API using a WebSocket.
@@ -72,7 +74,7 @@ My contribution I developed and maintained this project through its lifecycle, a
       <title>iSpeech-Text-to-Speech-TTS-Speech-Synthesis.js</title>
       <link>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Text to Speech iSpeech API using Javascript.
 Implementation This SDK uses HTML5 &amp;lt;audio&amp;gt; tags to play synthesized text in the browser.
@@ -85,7 +87,7 @@ Source Code</description>
       <title>iSpeech-Android-SDK</title>
       <link>http://www.joei.tech/post/ispeech-android-sdk/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-android-sdk/</guid>
       <description>Goal The goal of this project was to create an open source Android SDK to help customers access the API quickly and easily.
 Implementation For Speech Recognition the SDK uses the Android system to record WAV audio, converts it to Speex, and streams that audio to the server in real time for recognition.

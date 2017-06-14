@@ -6,6 +6,8 @@
     <description>Recent content in Text To Speech on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
+    <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Tue, 21 Apr 2015 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>iSpeech-Text-to-Speech-TTS-Speech-Synthesis.js</title>
       <link>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Text to Speech iSpeech API using Javascript.
 Implementation This SDK uses HTML5 &amp;lt;audio&amp;gt; tags to play synthesized text in the browser.
@@ -28,7 +30,7 @@ Source Code</description>
       <title>iSpeech-Android-SDK</title>
       <link>http://www.joei.tech/post/ispeech-android-sdk/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-android-sdk/</guid>
       <description>Goal The goal of this project was to create an open source Android SDK to help customers access the API quickly and easily.
 Implementation For Speech Recognition the SDK uses the Android system to record WAV audio, converts it to Speex, and streams that audio to the server in real time for recognition.

@@ -6,6 +6,8 @@
     <description>Recent content in Rest on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
+    <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Sun, 12 Mar 2017 12:36:27 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/rest/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>DataStore</title>
       <link>http://www.joei.tech/post/datastore/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/datastore/</guid>
       <description>Goal DataStore is designed to store many small files with metadata attached to each file. This metadata could be searched later to download the files that fit the search query.
 Implementation DataStore is written using php for processing. MySQL is used to store and search the metadata and Apache is used to serve the uploaded files.
@@ -26,7 +28,7 @@ Completed  Uploading Files Searching metadata Downloading Files  Future goals  A
       <title>DataStoreLib.py</title>
       <link>http://www.joei.tech/post/datastorelib.py/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/datastorelib.py/</guid>
       <description>Goal DataStoreLib.py is a python SDK designed to access the DataStore API.
 Implementation DataStoreLib.py simplifies the DataStore API into two python functions

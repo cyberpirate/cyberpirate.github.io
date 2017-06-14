@@ -6,6 +6,8 @@
     <description>Recent content in Tags on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
+    <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Sat, 15 Feb 2014 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>Android</title>
       <link>http://www.joei.tech/tags/android/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/android/</guid>
       <description></description>
     </item>
@@ -24,7 +26,7 @@
       <title>Api</title>
       <link>http://www.joei.tech/tags/api/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/api/</guid>
       <description></description>
     </item>
@@ -33,7 +35,7 @@
       <title>Big Data Management</title>
       <link>http://www.joei.tech/tags/big-data-management/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/big-data-management/</guid>
       <description></description>
     </item>
@@ -42,7 +44,7 @@
       <title>Edgeos</title>
       <link>http://www.joei.tech/tags/edgeos/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/edgeos/</guid>
       <description></description>
     </item>
@@ -51,7 +53,7 @@
       <title>Edgerouter</title>
       <link>http://www.joei.tech/tags/edgerouter/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/edgerouter/</guid>
       <description></description>
     </item>
@@ -60,7 +62,7 @@
       <title>Firewall</title>
       <link>http://www.joei.tech/tags/firewall/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/firewall/</guid>
       <description></description>
     </item>
@@ -69,7 +71,7 @@
       <title>Freenas</title>
       <link>http://www.joei.tech/tags/freenas/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/freenas/</guid>
       <description></description>
     </item>
@@ -78,7 +80,7 @@
       <title>Ispeech</title>
       <link>http://www.joei.tech/tags/ispeech/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/ispeech/</guid>
       <description></description>
     </item>
@@ -87,7 +89,7 @@
       <title>Java</title>
       <link>http://www.joei.tech/tags/java/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/java/</guid>
       <description></description>
     </item>
@@ -96,7 +98,7 @@
       <title>Javascript</title>
       <link>http://www.joei.tech/tags/javascript/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/javascript/</guid>
       <description></description>
     </item>
@@ -105,7 +107,7 @@
       <title>Linux</title>
       <link>http://www.joei.tech/tags/linux/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/linux/</guid>
       <description></description>
     </item>
@@ -114,7 +116,7 @@
       <title>Linux Permissions</title>
       <link>http://www.joei.tech/tags/linux-permissions/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/linux-permissions/</guid>
       <description></description>
     </item>
@@ -123,7 +125,7 @@
       <title>Mysql</title>
       <link>http://www.joei.tech/tags/mysql/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/mysql/</guid>
       <description></description>
     </item>
@@ -132,7 +134,7 @@
       <title>Php</title>
       <link>http://www.joei.tech/tags/php/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/php/</guid>
       <description></description>
     </item>
@@ -141,7 +143,7 @@
       <title>Python</title>
       <link>http://www.joei.tech/tags/python/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/python/</guid>
       <description></description>
     </item>
@@ -150,7 +152,7 @@
       <title>Python Package</title>
       <link>http://www.joei.tech/tags/python-package/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/python-package/</guid>
       <description></description>
     </item>
@@ -159,7 +161,7 @@
       <title>Rest</title>
       <link>http://www.joei.tech/tags/rest/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/rest/</guid>
       <description></description>
     </item>
@@ -168,7 +170,7 @@
       <title>Sdk</title>
       <link>http://www.joei.tech/tags/sdk/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/sdk/</guid>
       <description></description>
     </item>
@@ -177,7 +179,7 @@
       <title>Speech Technology</title>
       <link>http://www.joei.tech/tags/speech-technology/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/speech-technology/</guid>
       <description></description>
     </item>
@@ -186,7 +188,7 @@
       <title>Sqlite3</title>
       <link>http://www.joei.tech/tags/sqlite3/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/sqlite3/</guid>
       <description></description>
     </item>
@@ -195,7 +197,7 @@
       <title>Text To Speech</title>
       <link>http://www.joei.tech/tags/text-to-speech/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/text-to-speech/</guid>
       <description></description>
     </item>
@@ -204,7 +206,7 @@
       <title>Voice Recognition</title>
       <link>http://www.joei.tech/tags/voice-recognition/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/voice-recognition/</guid>
       <description></description>
     </item>
@@ -213,7 +215,7 @@
       <title>Vyos</title>
       <link>http://www.joei.tech/tags/vyos/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/vyos/</guid>
       <description></description>
     </item>

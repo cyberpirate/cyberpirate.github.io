@@ -6,6 +6,8 @@
     <description>Recent content in Python Package on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
+    <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Sun, 12 Mar 2017 12:36:27 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/python-package/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +17,7 @@
       <title>DataStoreLib.py</title>
       <link>http://www.joei.tech/post/datastorelib.py/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
-      
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/datastorelib.py/</guid>
       <description>Goal DataStoreLib.py is a python SDK designed to access the DataStore API.
 Implementation DataStoreLib.py simplifies the DataStore API into two python functions
