@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>https://cyberpirate.github.io/</loc>
+    <lastmod>2017-06-12T15:24:41-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://cyberpirate.github.io/page/about/</loc>
   </url>
   
@@ -102,12 +107,6 @@
   
   <url>
     <loc>https://cyberpirate.github.io/tags/javascript/</loc>
-    <lastmod>2017-06-12T15:24:41-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://cyberpirate.github.io/</loc>
     <lastmod>2017-06-12T15:24:41-04:00</lastmod>
     <priority>0</priority>
   </url>
