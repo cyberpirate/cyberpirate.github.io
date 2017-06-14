@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Voice Recognition on Joe&#39;s Portfolio</title>
-    <link>https://cyberpirate.github.io/tags/voice-recognition/</link>
+    <link>http://www.joei.tech/tags/voice-recognition/</link>
     <description>Recent content in Voice Recognition on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 15:24:41 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2015 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://cyberpirate.github.io/tags/voice-recognition/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.joei.tech/tags/voice-recognition/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>iSpeech-Speech-Recognition-ASR-Voice-Recognition.js</title>
-      <link>https://cyberpirate.github.io/post/ispeech-speech-recognition-asr-voice-recognition.js/</link>
-      <pubDate>Mon, 12 Jun 2017 15:24:41 -0400</pubDate>
+      <link>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</link>
+      <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/post/ispeech-speech-recognition-asr-voice-recognition.js/</guid>
+      <guid>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Voice Recognition iSpeech API using Javascript.
 Implementation The SDK uses getUserMedia() to record audio from the browser, encodes it to speex, then streams the data to the iSpeech API using a WebSocket.
 Completed This project completed the stated goals.
@@ -25,10 +25,10 @@ My contribution I developed and maintained this project through its lifecycle, a
     
     <item>
       <title>iSpeech-Android-SDK</title>
-      <link>https://cyberpirate.github.io/post/ispeech-android-sdk/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:41 -0400</pubDate>
+      <link>http://www.joei.tech/post/ispeech-android-sdk/</link>
+      <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/post/ispeech-android-sdk/</guid>
+      <guid>http://www.joei.tech/post/ispeech-android-sdk/</guid>
       <description>Goal The goal of this project was to create an open source Android SDK to help customers access the API quickly and easily.
 Implementation For Speech Recognition the SDK uses the Android system to record WAV audio, converts it to Speex, and streams that audio to the server in real time for recognition.
 For Text to Speech the SDK accesses iSpeech&amp;rsquo;s REST api and streams the audio.

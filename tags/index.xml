@@ -2,219 +2,219 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joe&#39;s Portfolio</title>
-    <link>https://cyberpirate.github.io/tags/</link>
+    <link>http://www.joei.tech/tags/</link>
     <description>Recent content in Tags on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 15:23:41 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2014 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://cyberpirate.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.joei.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>https://cyberpirate.github.io/tags/android/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/android/</link>
+      <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/android/</guid>
+      <guid>http://www.joei.tech/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Api</title>
-      <link>https://cyberpirate.github.io/tags/api/</link>
-      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      <link>http://www.joei.tech/tags/api/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/api/</guid>
+      <guid>http://www.joei.tech/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data Management</title>
-      <link>https://cyberpirate.github.io/tags/big-data-management/</link>
-      <pubDate>Mon, 12 Jun 2017 15:03:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/big-data-management/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/big-data-management/</guid>
+      <guid>http://www.joei.tech/tags/big-data-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edgeos</title>
-      <link>https://cyberpirate.github.io/tags/edgeos/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:16 -0400</pubDate>
+      <link>http://www.joei.tech/tags/edgeos/</link>
+      <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/edgeos/</guid>
+      <guid>http://www.joei.tech/tags/edgeos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edgerouter</title>
-      <link>https://cyberpirate.github.io/tags/edgerouter/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:16 -0400</pubDate>
+      <link>http://www.joei.tech/tags/edgerouter/</link>
+      <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/edgerouter/</guid>
+      <guid>http://www.joei.tech/tags/edgerouter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firewall</title>
-      <link>https://cyberpirate.github.io/tags/firewall/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:16 -0400</pubDate>
+      <link>http://www.joei.tech/tags/firewall/</link>
+      <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/firewall/</guid>
+      <guid>http://www.joei.tech/tags/firewall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freenas</title>
-      <link>https://cyberpirate.github.io/tags/freenas/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:23 -0400</pubDate>
+      <link>http://www.joei.tech/tags/freenas/</link>
+      <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/freenas/</guid>
+      <guid>http://www.joei.tech/tags/freenas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ispeech</title>
-      <link>https://cyberpirate.github.io/tags/ispeech/</link>
-      <pubDate>Mon, 12 Jun 2017 15:24:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/ispeech/</link>
+      <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/ispeech/</guid>
+      <guid>http://www.joei.tech/tags/ispeech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://cyberpirate.github.io/tags/java/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/java/</link>
+      <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/java/</guid>
+      <guid>http://www.joei.tech/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://cyberpirate.github.io/tags/javascript/</link>
-      <pubDate>Mon, 12 Jun 2017 15:24:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/javascript/</link>
+      <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/javascript/</guid>
+      <guid>http://www.joei.tech/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://cyberpirate.github.io/tags/linux/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:23 -0400</pubDate>
+      <link>http://www.joei.tech/tags/linux/</link>
+      <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/linux/</guid>
+      <guid>http://www.joei.tech/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux Permissions</title>
-      <link>https://cyberpirate.github.io/tags/linux-permissions/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:23 -0400</pubDate>
+      <link>http://www.joei.tech/tags/linux-permissions/</link>
+      <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/linux-permissions/</guid>
+      <guid>http://www.joei.tech/tags/linux-permissions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mysql</title>
-      <link>https://cyberpirate.github.io/tags/mysql/</link>
-      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      <link>http://www.joei.tech/tags/mysql/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/mysql/</guid>
+      <guid>http://www.joei.tech/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>https://cyberpirate.github.io/tags/php/</link>
-      <pubDate>Mon, 12 Jun 2017 14:36:27 -0400</pubDate>
+      <link>http://www.joei.tech/tags/php/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/php/</guid>
+      <guid>http://www.joei.tech/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://cyberpirate.github.io/tags/python/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:23 -0400</pubDate>
+      <link>http://www.joei.tech/tags/python/</link>
+      <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/python/</guid>
+      <guid>http://www.joei.tech/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python Package</title>
-      <link>https://cyberpirate.github.io/tags/python-package/</link>
-      <pubDate>Mon, 12 Jun 2017 15:03:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/python-package/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/python-package/</guid>
+      <guid>http://www.joei.tech/tags/python-package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rest</title>
-      <link>https://cyberpirate.github.io/tags/rest/</link>
-      <pubDate>Mon, 12 Jun 2017 15:03:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/rest/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/rest/</guid>
+      <guid>http://www.joei.tech/tags/rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sdk</title>
-      <link>https://cyberpirate.github.io/tags/sdk/</link>
-      <pubDate>Mon, 12 Jun 2017 15:24:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/sdk/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/sdk/</guid>
+      <guid>http://www.joei.tech/tags/sdk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Technology</title>
-      <link>https://cyberpirate.github.io/tags/speech-technology/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/speech-technology/</link>
+      <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/speech-technology/</guid>
+      <guid>http://www.joei.tech/tags/speech-technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sqlite3</title>
-      <link>https://cyberpirate.github.io/tags/sqlite3/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:16 -0400</pubDate>
+      <link>http://www.joei.tech/tags/sqlite3/</link>
+      <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/sqlite3/</guid>
+      <guid>http://www.joei.tech/tags/sqlite3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text To Speech</title>
-      <link>https://cyberpirate.github.io/tags/text-to-speech/</link>
-      <pubDate>Mon, 12 Jun 2017 15:24:26 -0400</pubDate>
+      <link>http://www.joei.tech/tags/text-to-speech/</link>
+      <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/text-to-speech/</guid>
+      <guid>http://www.joei.tech/tags/text-to-speech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voice Recognition</title>
-      <link>https://cyberpirate.github.io/tags/voice-recognition/</link>
-      <pubDate>Mon, 12 Jun 2017 15:24:41 -0400</pubDate>
+      <link>http://www.joei.tech/tags/voice-recognition/</link>
+      <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/voice-recognition/</guid>
+      <guid>http://www.joei.tech/tags/voice-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vyos</title>
-      <link>https://cyberpirate.github.io/tags/vyos/</link>
-      <pubDate>Mon, 12 Jun 2017 15:23:16 -0400</pubDate>
+      <link>http://www.joei.tech/tags/vyos/</link>
+      <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/tags/vyos/</guid>
+      <guid>http://www.joei.tech/tags/vyos/</guid>
       <description></description>
     </item>
     

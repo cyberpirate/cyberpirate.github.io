@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Python Package on Joe&#39;s Portfolio</title>
-    <link>https://cyberpirate.github.io/tags/python-package/</link>
+    <link>http://www.joei.tech/tags/python-package/</link>
     <description>Recent content in Python Package on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 12 Jun 2017 15:03:41 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 12 Mar 2017 12:36:27 -0400</lastBuildDate>
     
-	<atom:link href="https://cyberpirate.github.io/tags/python-package/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.joei.tech/tags/python-package/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DataStoreLib.py</title>
-      <link>https://cyberpirate.github.io/post/datastorelib.py/</link>
-      <pubDate>Mon, 12 Jun 2017 15:03:41 -0400</pubDate>
+      <link>http://www.joei.tech/post/datastorelib.py/</link>
+      <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       
-      <guid>https://cyberpirate.github.io/post/datastorelib.py/</guid>
+      <guid>http://www.joei.tech/post/datastorelib.py/</guid>
       <description>Goal DataStoreLib.py is a python SDK designed to access the DataStore API.
 Implementation DataStoreLib.py simplifies the DataStore API into two python functions
-#file: file to be passed to requests #mimeType: string mimeType #data: dictionary of metadata for the file DataStore.uploadFile(file, mimeType, data) #returns: True or False #conditions: array of conditions to pass to DataStore. # Syntax in the DataStore documentation DataStore.getIds(conditions) #returns: array of urls to files passing the conditions  Completed  Uploading Files Searching Metadata  Future goals None yet</description>
+#file: file to be passed to requests #mimeType: string mimeType #data: dictionary of metadata for the file DataStore.uploadFile(file, mimeType, data) #returns: True or False #conditions: array of conditions to pass to DataStore. # Syntax in the DataStore documentation DataStore.getIds(conditions) #returns: array of urls to files passing the conditions  Completed  Uploading Files Searching metadata  Future goals None yet</description>
     </item>
     
   </channel>
