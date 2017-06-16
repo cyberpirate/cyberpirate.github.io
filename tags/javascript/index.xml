@@ -8,10 +8,22 @@
     <language>en-us</language>
     <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
-    <lastBuildDate>Tue, 21 Apr 2015 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2015 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Select and Speak</title>
+      <link>http://www.joei.tech/post/select-and-speak/</link>
+      <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
+      <guid>http://www.joei.tech/post/select-and-speak/</guid>
+      <description>Goal The goal of this project was to create a Chrome Extension that people could use to hear their webpages instead of just reading them.
+Implementation The app uses the iSpeech api to stream audio generated from the text.
+Completed The app accomplishes the stated goals and is being maintained.
+My contribution The app was written when I joined the team, I was responsible for adding new features and maintaining it through it&amp;rsquo;s lifecycle.</description>
+    </item>
     
     <item>
       <title>iSpeech-Speech-Recognition-ASR-Voice-Recognition.js</title>

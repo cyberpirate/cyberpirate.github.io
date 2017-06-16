@@ -23,6 +23,26 @@
   </url>
   
   <url>
+    <loc>http://www.joei.tech/post/select-and-speak/</loc>
+    <lastmod>2015-08-20T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/post/ispeech-text-to-speech/</loc>
+    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/post/drivesafe.ly/</loc>
+    <lastmod>2015-07-05T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/post/talkz/</loc>
+    <lastmod>2015-06-03T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.joei.tech/post/ispeech-speech-recognition-asr-voice-recognition.js/</loc>
     <lastmod>2015-04-21T12:00:00-04:00</lastmod>
   </url>
@@ -48,13 +68,19 @@
   
   <url>
     <loc>http://www.joei.tech/tags/android/</loc>
-    <lastmod>2014-02-15T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.joei.tech/tags/api/</loc>
     <lastmod>2017-03-12T12:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/tags/apps/</loc>
+    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,6 +92,12 @@
   
   <url>
     <loc>http://www.joei.tech/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/tags/chrome-extension/</loc>
+    <lastmod>2015-08-20T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -94,20 +126,26 @@
   </url>
   
   <url>
+    <loc>http://www.joei.tech/tags/hats-off-apps/</loc>
+    <lastmod>2015-06-03T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.joei.tech/tags/ispeech/</loc>
-    <lastmod>2015-04-21T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-20T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.joei.tech/tags/java/</loc>
-    <lastmod>2014-02-15T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.joei.tech/tags/javascript/</loc>
-    <lastmod>2015-04-21T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-20T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -126,6 +164,12 @@
   <url>
     <loc>http://www.joei.tech/tags/mysql/</loc>
     <lastmod>2017-03-12T12:36:27-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/tags/open-source/</loc>
+    <lastmod>2014-02-15T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -172,7 +216,7 @@
   
   <url>
     <loc>http://www.joei.tech/tags/speech-technology/</loc>
-    <lastmod>2014-02-15T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-20T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -184,19 +228,19 @@
   
   <url>
     <loc>http://www.joei.tech/tags/</loc>
-    <lastmod>2014-02-15T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.joei.tech/tags/text-to-speech/</loc>
-    <lastmod>2015-04-21T12:00:00-04:00</lastmod>
+    <lastmod>2015-08-20T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.joei.tech/tags/voice-recognition/</loc>
-    <lastmod>2015-04-21T12:00:00-04:00</lastmod>
+    <lastmod>2015-07-05T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
