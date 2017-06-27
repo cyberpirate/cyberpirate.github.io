@@ -19,11 +19,10 @@
       <pubDate>Sat, 01 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/ispeech-text-to-speech/</guid>
-      <description>Goal The goal of this project was to create an android app that could be used to easily demo the quality of iSpeech&amp;rsquo;s api, aiding sales.
+      <description>Screenshots  Goal The goal of this project was to create an android app that could be used to easily demo the quality of iSpeech&amp;rsquo;s api, aiding sales.
 Implementation The app uses the iSpeech api to stream audio generated from the text.
 Completed The app accomplishes the stated goals and is being maintained.
-My contribution I contributed to this app from it&amp;rsquo;s creation, and helped maintain it through it&amp;rsquo;s lifecycle.
-Download App</description>
+My contribution I contributed to this app from it&amp;rsquo;s creation, and helped maintain it through it&amp;rsquo;s lifecycle.</description>
     </item>
     
     <item>
@@ -32,10 +31,9 @@ Download App</description>
       <pubDate>Sun, 05 Jul 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/drivesafe.ly/</guid>
-      <description>Goal The goal of this project was to help prevent people from driving dangerously by reading text messages to them and allowing them to respond with their voice.
+      <description>Screenshots  Goal The goal of this project was to help prevent people from driving dangerously by reading text messages to them and allowing them to respond with their voice.
 Implementation The app uses the iSpeech api to recognize the user&amp;rsquo;s voice and to speak any texts or emails the user receives.
-Completed The app accomplishes the stated goals and is being maintained.
-My contribution The app was written when I joined the team, I was responsible for updating it for new android versions and maintaining it, taking user feedback into account.</description>
+Completed The app accomplishes the stated goals and is being maintained.</description>
     </item>
     
     <item>
@@ -44,7 +42,7 @@ My contribution The app was written when I joined the team, I was responsible fo
       <pubDate>Wed, 03 Jun 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/post/talkz/</guid>
-      <description>Goal The goal of this project was to create an entertaining app where users can edit their voice to sound like a celebrity.
+      <description>Screenshots  Goal The goal of this project was to create an entertaining app where users can edit their voice to sound like a celebrity.
 Implementation The app uses the Hats Off Api to stream audio to their servers, then play the processed results.
 Completed The app accomplishes the stated goals and is being maintained.
 My contribution I contributed to this app from it&amp;rsquo;s creation, and helped maintain it through it&amp;rsquo;s lifecycle.</description>
