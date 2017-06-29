@@ -8,10 +8,21 @@
     <language>en-us</language>
     <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
-    <lastBuildDate>Sat, 01 Aug 2015 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>VR Test</title>
+      <link>http://www.joei.tech/post/vrtest/</link>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
+      <guid>http://www.joei.tech/post/vrtest/</guid>
+      <description>Screenshots  Goal The goal of this app is as a demonstration of my ability to write android native code that interfaces with OpenGL
+Completed tasks Here&amp;rsquo;s the list of what I completed:
+ The app relies on the module vr_mod_1. The app uses RelativeLayout and several other UI elements to implement a YouTube like UI. The UI adjusts itself for both screen size and orientation.</description>
+    </item>
     
     <item>
       <title>iSpeech Text To Speech</title>

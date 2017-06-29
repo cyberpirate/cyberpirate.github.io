@@ -8,7 +8,7 @@
     <language>en-us</language>
     <managingEditor>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</managingEditor>
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
-    <lastBuildDate>Sat, 01 Aug 2015 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 24 Jun 2017 12:00:00 -0400</lastBuildDate>
     
 	<atom:link href="http://www.joei.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -16,7 +16,7 @@
     <item>
       <title>Android</title>
       <link>http://www.joei.tech/tags/android/</link>
-      <pubDate>Sat, 01 Aug 2015 12:00:00 -0400</pubDate>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/android/</guid>
       <description></description>
@@ -34,7 +34,7 @@
     <item>
       <title>Apps</title>
       <link>http://www.joei.tech/tags/apps/</link>
-      <pubDate>Sat, 01 Aug 2015 12:00:00 -0400</pubDate>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/apps/</guid>
       <description></description>
@@ -115,7 +115,7 @@
     <item>
       <title>Java</title>
       <link>http://www.joei.tech/tags/java/</link>
-      <pubDate>Sat, 01 Aug 2015 12:00:00 -0400</pubDate>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/java/</guid>
       <description></description>
@@ -127,6 +127,15 @@
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jni</title>
+      <link>http://www.joei.tech/tags/jni/</link>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
+      <guid>http://www.joei.tech/tags/jni/</guid>
       <description></description>
     </item>
     
@@ -158,11 +167,29 @@
     </item>
     
     <item>
+      <title>Ndk</title>
+      <link>http://www.joei.tech/tags/ndk/</link>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
+      <guid>http://www.joei.tech/tags/ndk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Open Source</title>
       <link>http://www.joei.tech/tags/open-source/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
       <guid>http://www.joei.tech/tags/open-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Opengl</title>
+      <link>http://www.joei.tech/tags/opengl/</link>
+      <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
+      <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
+      <guid>http://www.joei.tech/tags/opengl/</guid>
       <description></description>
     </item>
     

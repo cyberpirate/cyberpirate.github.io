@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.joei.tech/post/vrtest/</loc>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.joei.tech/post/jailusermanager.py/</loc>
     <lastmod>2017-05-22T15:00:10-04:00</lastmod>
   </url>
@@ -59,7 +64,7 @@
   
   <url>
     <loc>http://www.joei.tech/</loc>
-    <lastmod>2017-05-22T15:00:10-04:00</lastmod>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
   </url>
   
   <url>
@@ -68,7 +73,7 @@
   
   <url>
     <loc>http://www.joei.tech/tags/android/</loc>
-    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -80,7 +85,7 @@
   
   <url>
     <loc>http://www.joei.tech/tags/apps/</loc>
-    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -139,13 +144,19 @@
   
   <url>
     <loc>http://www.joei.tech/tags/java/</loc>
-    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.joei.tech/tags/javascript/</loc>
     <lastmod>2015-08-20T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/tags/jni/</loc>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -168,8 +179,20 @@
   </url>
   
   <url>
+    <loc>http://www.joei.tech/tags/ndk/</loc>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.joei.tech/tags/open-source/</loc>
     <lastmod>2014-02-15T12:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.joei.tech/tags/opengl/</loc>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -186,7 +209,7 @@
   
   <url>
     <loc>http://www.joei.tech/post/</loc>
-    <lastmod>2017-05-22T15:00:10-04:00</lastmod>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -228,7 +251,7 @@
   
   <url>
     <loc>http://www.joei.tech/tags/</loc>
-    <lastmod>2015-08-01T12:00:00-04:00</lastmod>
+    <lastmod>2017-06-24T12:00:00-04:00</lastmod>
     <priority>0</priority>
   </url>
   
