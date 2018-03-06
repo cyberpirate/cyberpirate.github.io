@@ -16,21 +16,19 @@
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Joe&#39;s Portfolio" />
 
-  <meta name="generator" content="Hugo 0.22" />
+  <meta name="generator" content="Hugo 0.37" />
   <link rel="canonical" href="http://www.joei.tech/tags/python/" />
-  <link rel="alternate" href="http://www.joei.tech/index.xml" type="application/rss+xml" title="Joe&#39;s Portfolio">
+  <link rel="alternate" href="http://www.joei.tech/tags/python/index.xml" type="application/rss+xml" title="Joe&#39;s Portfolio">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="stylesheet" href="http://www.joei.tech/css/main.css" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
-  <link rel="stylesheet" href="http://www.joei.tech/css/pygment_highlights.css" />
-  <link rel="stylesheet" href="http://www.joei.tech/css/highlight.min.css" />
+  <link rel="stylesheet" href="http://www.joei.tech/css/main.css" /><link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" /><link rel="stylesheet" href="http://www.joei.tech/css/syntax.css" /><link rel="stylesheet" href="http://www.joei.tech/css/codeblock.css" />
 
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.css" integrity="sha256-sCl5PUOGMLfFYctzDW3MtRib0ctyUvI9Qsmq2wXOeBY=" crossorigin="anonymous" />
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/default-skin/default-skin.min.css" integrity="sha256-BFeI1V+Vh1Rk37wswuOYn5lsTcaU96hGaI7OUVCLjPc=" crossorigin="anonymous" />
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.css" integrity="sha384-h/L2W9KefUClHWaty3SLE5F/qvc4djlyR4qY3NUV5HGQBBW7stbcfff1+I/vmsHh" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/default-skin/default-skin.min.css" integrity="sha384-iD0dNku6PYSIQLyfTOpB06F2KCZJAKLOThS5HRe8b3ibhdEQ6eKsFf/EeFxdOt5R" crossorigin="anonymous">
 
 
 
@@ -164,102 +162,156 @@ ga('send', 'pageview');
             <article class="post-preview">
               <a href="http://www.joei.tech/post/jailusermanager.py/">
                 <h2 class="post-title">jailUserManager.py</h2>
-    
+
                 
               </a>
-    
+
               <p class="post-meta">
                 Posted on May 22, 2017
               </p>
               <div class="post-entry">
-                  A small python script to manage permissions on my FreeNAS home server
-                  <a href="http://www.joei.tech/post/jailusermanager.py/" class="post-read-more">[Read More]</a>
+                
+                  
+
+<h2 id="goal">Goal</h2>
+
+<p>Fix incorrect permissions on mounted files in FreeNAS and add relevant users/groups to any jails that need access to files.</p>
+
+<h2 id="implementation">Implementation</h2>
+
+<p>This python script scans the configured folders for incorrect permissions and fixes them. It also scans any jails for missing users/groups and adds them if necessary.</p>
+
+<h2 id="completed">Completed</h2>
+
+<ul>
+<li>Scans for incorrect permissions</li>
+<li>Scans for missing users in jails</li>
+</ul>
+
+<h2 id="future-goals">Future goals</h2>
+
+<p>None yet</p>
+
+<p><a href="https://gist.github.com/cyberpirate/a5fd937f07229648e9262fa497ef10bb">Source Code</a></p>
+
+                
               </div>
-    
+
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/python">Python</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/python/">Python</a>&nbsp;
                   
-                    #<a href="/tags/linux-permissions">Linux Permissions</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/linux-permissions/">Linux Permissions</a>&nbsp;
                   
-                    #<a href="/tags/freenas">FreeNAS</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/freenas/">FreeNAS</a>&nbsp;
                   
-                    #<a href="/tags/linux">Linux</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/linux/">Linux</a>&nbsp;
                   
                 </span>
               
-    
+
             </article>
           
             <article class="post-preview">
               <a href="http://www.joei.tech/post/personalchina/">
                 <h2 class="post-title">PersonalChina</h2>
-    
+
                 
               </a>
-    
+
               <p class="post-meta">
                 Posted on May 12, 2017
               </p>
               <div class="post-entry">
-                  A python script designed to run on the EdgeRouter X that creates and configures an outgoing whitelist firewall.
-                  <a href="http://www.joei.tech/post/personalchina/" class="post-read-more">[Read More]</a>
+                
+                  
+
+<h2 id="goal">Goal</h2>
+
+<p>The goal of this project is to ensure that any software on my system can not phone home without my express approval.</p>
+
+<h2 id="implementation">Implementation</h2>
+
+<p>This project configures VyOS firewall rules to create a whitelist that the firewall uses to filter traffic.</p>
+
+<h2 id="completed">Completed</h2>
+
+<ul>
+<li>rule configuration</li>
+<li>command line interface</li>
+<li>expiring rules</li>
+</ul>
+
+<h2 id="future-goals">Future goals</h2>
+
+<ul>
+<li>web interface</li>
+<li>blocked request log</li>
+</ul>
+
+<p><a href="https://github.com/cyberpirate/PersonalChina">Source Code</a></p>
+
+                
               </div>
-    
+
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/firewall">Firewall</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/firewall/">Firewall</a>&nbsp;
                   
-                    #<a href="/tags/python">Python</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/python/">Python</a>&nbsp;
                   
-                    #<a href="/tags/linux">Linux</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/linux/">Linux</a>&nbsp;
                   
-                    #<a href="/tags/vyos">VyOS</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/vyos/">VyOS</a>&nbsp;
                   
-                    #<a href="/tags/edgeos">EdgeOS</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/edgeos/">EdgeOS</a>&nbsp;
                   
-                    #<a href="/tags/edgerouter">EdgeRouter</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/edgerouter/">EdgeRouter</a>&nbsp;
                   
-                    #<a href="/tags/sqlite3">sqlite3</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/sqlite3/">sqlite3</a>&nbsp;
                   
                 </span>
               
-    
+
             </article>
           
             <article class="post-preview">
               <a href="http://www.joei.tech/post/datastorelib.py/">
                 <h2 class="post-title">DataStoreLib.py</h2>
-    
+
                 
               </a>
-    
+
               <p class="post-meta">
                 Posted on March 12, 2017
               </p>
               <div class="post-entry">
-                  DataStoreLib.py is a python library used to access and store data on the DataStore API
+                
+                  Goal DataStoreLib.py is a python SDK designed to access the DataStore API.
+Implementation DataStoreLib.py simplifies the DataStore API into two python functions
+#file: file to be passed to requests #mimeType: string mimeType #data: dictionary of metadata for the file DataStore.uploadFile(file, mimeType, data) #returns: True or False #conditions: array of conditions to pass to DataStore. # Syntax in the DataStore documentation DataStore.getIds(conditions) #returns: array of urls to files passing the conditions  Completed  Uploading Files Searching metadata  Future goals None yet
                   <a href="http://www.joei.tech/post/datastorelib.py/" class="post-read-more">[Read More]</a>
+                
               </div>
-    
+
               
                 <span class="post-meta">
                   
-                    #<a href="/tags/sdk">SDK</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/sdk/">SDK</a>&nbsp;
                   
-                    #<a href="/tags/python">Python</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/python/">Python</a>&nbsp;
                   
-                    #<a href="/tags/python-package">Python Package</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/python-package/">Python Package</a>&nbsp;
                   
-                    #<a href="/tags/rest">REST</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/rest/">REST</a>&nbsp;
                   
-                    #<a href="/tags/big-data-management">Big Data Management</a>&nbsp;
+                    #<a href="http://www.joei.tech//tags/big-data-management/">Big Data Management</a>&nbsp;
                   
                 </span>
               
-    
+
             </article>
           
         </div>
@@ -301,7 +353,12 @@ ga('send', 'pageview');
           
         </ul>
         <p class="credits copyright text-muted">
-          Joseph Iacoviello
+          
+            
+              Joseph Iacoviello
+            
+          
+
           &nbsp;&bull;&nbsp;
           2017
 
@@ -312,7 +369,7 @@ ga('send', 'pageview');
         </p>
         
         <p class="credits theme-by text-muted">
-          <a href="http://gohugo.io">Hugo v0.22</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
+          <a href="http://gohugo.io">Hugo v0.37</a> powered &nbsp;&bull;&nbsp; Theme by <a href="http://deanattali.com/beautiful-jekyll/">Beautiful Jekyll</a> adapted to <a href="https://github.com/halogenica/beautifulhugo">Beautiful Hugo</a>
           
         </p>
       </div>
@@ -324,13 +381,13 @@ ga('send', 'pageview');
 <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/contrib/auto-render.min.js" integrity="sha384-dq1/gEHSxPZQ7DdrM82ID4YVol9BYyU7GbWlIwnwyPzotpoc57wDw/guX8EaYGPx" crossorigin="anonymous"></script>
 <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
-<script src="http://www.joei.tech/js/main.js"></script>
-<script src="http://www.joei.tech/js/highlight.min.js"></script>
-<script> hljs.initHighlightingOnLoad(); </script>
-<script> renderMathInElement(document.body); </script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe.min.js" integrity="sha256-UplRCs9v4KXVJvVY+p+RSo5Q4ilAUXh7kpjyIP5odyc=" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.1/photoswipe-ui-default.min.js" integrity="sha256-PWHOlUzc96pMc8ThwRIXPn8yH4NOLu42RQ0b9SpnpFk=" crossorigin="anonymous"></script>
-<script src="/js/load-photoswipe.js"></script>
+<script src="http://www.joei.tech/js/main.js"></script><script> renderMathInElement(document.body); </script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>
+<script src="http://www.joei.tech/js/load-photoswipe.js"></script>
+
+
+
 
 
 
