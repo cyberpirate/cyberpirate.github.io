@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Text to Speech on Joe&#39;s Portfolio</title>
-    <link>http://www.joei.tech/tags/text-to-speech/</link>
+    <link>https://www.joei.tech/tags/text-to-speech/</link>
     <description>Recent content in Text to Speech on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Thu, 20 Aug 2015 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://www.joei.tech/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.joei.tech/tags/text-to-speech/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Select and Speak</title>
-      <link>http://www.joei.tech/post/select-and-speak/</link>
+      <link>https://www.joei.tech/post/select-and-speak/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/select-and-speak/</guid>
+      <guid>https://www.joei.tech/post/select-and-speak/</guid>
       <description>Goal The goal of this project was to create a Chrome Extension that people could use to hear their webpages instead of just reading them.
 Implementation The app uses the iSpeech api to stream audio generated from the text.
 Completed The app accomplishes the stated goals and is being maintained.
@@ -27,10 +27,10 @@ My contribution The app was written when I joined the team, I was responsible fo
     
     <item>
       <title>iSpeech Text To Speech</title>
-      <link>http://www.joei.tech/post/ispeech-text-to-speech/</link>
+      <link>https://www.joei.tech/post/ispeech-text-to-speech/</link>
       <pubDate>Sat, 01 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/ispeech-text-to-speech/</guid>
+      <guid>https://www.joei.tech/post/ispeech-text-to-speech/</guid>
       <description>Screenshots  Goal The goal of this project was to create an android app that could be used to easily demo the quality of iSpeech&amp;rsquo;s api, aiding sales.
 Implementation The app uses the iSpeech api to stream audio generated from the text.
 Completed The app accomplishes the stated goals and is being maintained.
@@ -39,10 +39,10 @@ My contribution I contributed to this app from it&amp;rsquo;s creation, and help
     
     <item>
       <title>DriveSafe.ly</title>
-      <link>http://www.joei.tech/post/drivesafe.ly/</link>
+      <link>https://www.joei.tech/post/drivesafe.ly/</link>
       <pubDate>Sun, 05 Jul 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/drivesafe.ly/</guid>
+      <guid>https://www.joei.tech/post/drivesafe.ly/</guid>
       <description>Screenshots  Goal The goal of this project was to help prevent people from driving dangerously by reading text messages to them and allowing them to respond with their voice.
 Implementation The app uses the iSpeech api to recognize the user&amp;rsquo;s voice and to speak any texts or emails the user receives.
 Completed The app accomplishes the stated goals and is being maintained.</description>
@@ -50,10 +50,10 @@ Completed The app accomplishes the stated goals and is being maintained.</descri
     
     <item>
       <title>iSpeech-Text-to-Speech-TTS-Speech-Synthesis.js</title>
-      <link>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</link>
+      <link>https://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</link>
       <pubDate>Tue, 21 Apr 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</guid>
+      <guid>https://www.joei.tech/post/ispeech-text-to-speech-tts-speech-synthesis.js/</guid>
       <description>Goal This SDK is designed to enable developers to interact with the Text to Speech iSpeech API using Javascript.
 Implementation This SDK uses HTML5 &amp;lt;audio&amp;gt; tags to play synthesized text in the browser.
 Completed This SDK completed its stated goals.
@@ -63,10 +63,10 @@ Source Code</description>
     
     <item>
       <title>iSpeech-Android-SDK</title>
-      <link>http://www.joei.tech/post/ispeech-android-sdk/</link>
+      <link>https://www.joei.tech/post/ispeech-android-sdk/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/ispeech-android-sdk/</guid>
+      <guid>https://www.joei.tech/post/ispeech-android-sdk/</guid>
       <description>Goal The goal of this project was to create an open source Android SDK to help customers access the API quickly and easily.
 Implementation For Speech Recognition the SDK uses the Android system to record WAV audio, converts it to Speex, and streams that audio to the server in real time for recognition.
 For Text to Speech the SDK accesses iSpeech&amp;rsquo;s REST api and streams the audio.

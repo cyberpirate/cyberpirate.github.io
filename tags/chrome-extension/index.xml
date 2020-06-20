@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chrome Extension on Joe&#39;s Portfolio</title>
-    <link>http://www.joei.tech/tags/chrome-extension/</link>
+    <link>https://www.joei.tech/tags/chrome-extension/</link>
     <description>Recent content in Chrome Extension on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Thu, 20 Aug 2015 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://www.joei.tech/tags/chrome-extension/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.joei.tech/tags/chrome-extension/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Select and Speak</title>
-      <link>http://www.joei.tech/post/select-and-speak/</link>
+      <link>https://www.joei.tech/post/select-and-speak/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/select-and-speak/</guid>
+      <guid>https://www.joei.tech/post/select-and-speak/</guid>
       <description>Goal The goal of this project was to create a Chrome Extension that people could use to hear their webpages instead of just reading them.
 Implementation The app uses the iSpeech api to stream audio generated from the text.
 Completed The app accomplishes the stated goals and is being maintained.

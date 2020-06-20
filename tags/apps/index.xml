@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Apps on Joe&#39;s Portfolio</title>
-    <link>http://www.joei.tech/tags/apps/</link>
+    <link>https://www.joei.tech/tags/apps/</link>
     <description>Recent content in Apps on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Sat, 24 Jun 2017 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://www.joei.tech/tags/apps/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.joei.tech/tags/apps/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>VR Test</title>
-      <link>http://www.joei.tech/post/vrtest/</link>
+      <link>https://www.joei.tech/post/vrtest/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/vrtest/</guid>
+      <guid>https://www.joei.tech/post/vrtest/</guid>
       <description>Screenshots  Goal The goal of this app is as a demonstration of my ability to write android native code that interfaces with OpenGL
 Completed tasks Here&amp;rsquo;s the list of what I completed:
  The app relies on the module vr_mod_1. The app uses RelativeLayout and several other UI elements to implement a YouTube like UI. The UI adjusts itself for both screen size and orientation.</description>
@@ -26,10 +26,10 @@ Completed tasks Here&amp;rsquo;s the list of what I completed:
     
     <item>
       <title>iSpeech Text To Speech</title>
-      <link>http://www.joei.tech/post/ispeech-text-to-speech/</link>
+      <link>https://www.joei.tech/post/ispeech-text-to-speech/</link>
       <pubDate>Sat, 01 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/ispeech-text-to-speech/</guid>
+      <guid>https://www.joei.tech/post/ispeech-text-to-speech/</guid>
       <description>Screenshots  Goal The goal of this project was to create an android app that could be used to easily demo the quality of iSpeech&amp;rsquo;s api, aiding sales.
 Implementation The app uses the iSpeech api to stream audio generated from the text.
 Completed The app accomplishes the stated goals and is being maintained.
@@ -38,10 +38,10 @@ My contribution I contributed to this app from it&amp;rsquo;s creation, and help
     
     <item>
       <title>DriveSafe.ly</title>
-      <link>http://www.joei.tech/post/drivesafe.ly/</link>
+      <link>https://www.joei.tech/post/drivesafe.ly/</link>
       <pubDate>Sun, 05 Jul 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/drivesafe.ly/</guid>
+      <guid>https://www.joei.tech/post/drivesafe.ly/</guid>
       <description>Screenshots  Goal The goal of this project was to help prevent people from driving dangerously by reading text messages to them and allowing them to respond with their voice.
 Implementation The app uses the iSpeech api to recognize the user&amp;rsquo;s voice and to speak any texts or emails the user receives.
 Completed The app accomplishes the stated goals and is being maintained.</description>

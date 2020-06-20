@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Api on Joe&#39;s Portfolio</title>
-    <link>http://www.joei.tech/tags/api/</link>
+    <link>https://www.joei.tech/tags/api/</link>
     <description>Recent content in Api on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,15 +10,15 @@
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Sun, 12 Mar 2017 12:36:27 -0400</lastBuildDate>
     
-	<atom:link href="http://www.joei.tech/tags/api/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.joei.tech/tags/api/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DataStore</title>
-      <link>http://www.joei.tech/post/datastore/</link>
+      <link>https://www.joei.tech/post/datastore/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/post/datastore/</guid>
+      <guid>https://www.joei.tech/post/datastore/</guid>
       <description>Goal DataStore is designed to store many small files with metadata attached to each file. This metadata could be searched later to download the files that fit the search query.
 Implementation DataStore is written using php for processing. MySQL is used to store and search the metadata and Apache is used to serve the uploaded files.
 Completed  Uploading Files Searching metadata Downloading Files  Future goals  Auto setup for database tables Auto backup for metadata  Source Code</description>

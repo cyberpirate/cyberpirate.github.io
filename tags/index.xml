@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Joe&#39;s Portfolio</title>
-    <link>http://www.joei.tech/tags/</link>
+    <link>https://www.joei.tech/tags/</link>
     <description>Recent content in Tags on Joe&#39;s Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -10,267 +10,267 @@
     <webMaster>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</webMaster>
     <lastBuildDate>Sat, 24 Jun 2017 12:00:00 -0400</lastBuildDate>
     
-	<atom:link href="http://www.joei.tech/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.joei.tech/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Android</title>
-      <link>http://www.joei.tech/tags/android/</link>
+      <link>https://www.joei.tech/tags/android/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/android/</guid>
+      <guid>https://www.joei.tech/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Api</title>
-      <link>http://www.joei.tech/tags/api/</link>
+      <link>https://www.joei.tech/tags/api/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/api/</guid>
+      <guid>https://www.joei.tech/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apps</title>
-      <link>http://www.joei.tech/tags/apps/</link>
+      <link>https://www.joei.tech/tags/apps/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/apps/</guid>
+      <guid>https://www.joei.tech/tags/apps/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Big Data Management</title>
-      <link>http://www.joei.tech/tags/big-data-management/</link>
+      <link>https://www.joei.tech/tags/big-data-management/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/big-data-management/</guid>
+      <guid>https://www.joei.tech/tags/big-data-management/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Chrome Extension</title>
-      <link>http://www.joei.tech/tags/chrome-extension/</link>
+      <link>https://www.joei.tech/tags/chrome-extension/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/chrome-extension/</guid>
+      <guid>https://www.joei.tech/tags/chrome-extension/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edgeos</title>
-      <link>http://www.joei.tech/tags/edgeos/</link>
+      <link>https://www.joei.tech/tags/edgeos/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/edgeos/</guid>
+      <guid>https://www.joei.tech/tags/edgeos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Edgerouter</title>
-      <link>http://www.joei.tech/tags/edgerouter/</link>
+      <link>https://www.joei.tech/tags/edgerouter/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/edgerouter/</guid>
+      <guid>https://www.joei.tech/tags/edgerouter/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Firewall</title>
-      <link>http://www.joei.tech/tags/firewall/</link>
+      <link>https://www.joei.tech/tags/firewall/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/firewall/</guid>
+      <guid>https://www.joei.tech/tags/firewall/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Freenas</title>
-      <link>http://www.joei.tech/tags/freenas/</link>
+      <link>https://www.joei.tech/tags/freenas/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/freenas/</guid>
+      <guid>https://www.joei.tech/tags/freenas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ispeech</title>
-      <link>http://www.joei.tech/tags/ispeech/</link>
+      <link>https://www.joei.tech/tags/ispeech/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/ispeech/</guid>
+      <guid>https://www.joei.tech/tags/ispeech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>http://www.joei.tech/tags/java/</link>
+      <link>https://www.joei.tech/tags/java/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/java/</guid>
+      <guid>https://www.joei.tech/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>http://www.joei.tech/tags/javascript/</link>
+      <link>https://www.joei.tech/tags/javascript/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/javascript/</guid>
+      <guid>https://www.joei.tech/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jni</title>
-      <link>http://www.joei.tech/tags/jni/</link>
+      <link>https://www.joei.tech/tags/jni/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/jni/</guid>
+      <guid>https://www.joei.tech/tags/jni/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>http://www.joei.tech/tags/linux/</link>
+      <link>https://www.joei.tech/tags/linux/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/linux/</guid>
+      <guid>https://www.joei.tech/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux Permissions</title>
-      <link>http://www.joei.tech/tags/linux-permissions/</link>
+      <link>https://www.joei.tech/tags/linux-permissions/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/linux-permissions/</guid>
+      <guid>https://www.joei.tech/tags/linux-permissions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mysql</title>
-      <link>http://www.joei.tech/tags/mysql/</link>
+      <link>https://www.joei.tech/tags/mysql/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/mysql/</guid>
+      <guid>https://www.joei.tech/tags/mysql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ndk</title>
-      <link>http://www.joei.tech/tags/ndk/</link>
+      <link>https://www.joei.tech/tags/ndk/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/ndk/</guid>
+      <guid>https://www.joei.tech/tags/ndk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Source</title>
-      <link>http://www.joei.tech/tags/open-source/</link>
+      <link>https://www.joei.tech/tags/open-source/</link>
       <pubDate>Sat, 15 Feb 2014 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/open-source/</guid>
+      <guid>https://www.joei.tech/tags/open-source/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Opengl</title>
-      <link>http://www.joei.tech/tags/opengl/</link>
+      <link>https://www.joei.tech/tags/opengl/</link>
       <pubDate>Sat, 24 Jun 2017 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/opengl/</guid>
+      <guid>https://www.joei.tech/tags/opengl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Php</title>
-      <link>http://www.joei.tech/tags/php/</link>
+      <link>https://www.joei.tech/tags/php/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/php/</guid>
+      <guid>https://www.joei.tech/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>http://www.joei.tech/tags/python/</link>
+      <link>https://www.joei.tech/tags/python/</link>
       <pubDate>Mon, 22 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/python/</guid>
+      <guid>https://www.joei.tech/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python Package</title>
-      <link>http://www.joei.tech/tags/python-package/</link>
+      <link>https://www.joei.tech/tags/python-package/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/python-package/</guid>
+      <guid>https://www.joei.tech/tags/python-package/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rest</title>
-      <link>http://www.joei.tech/tags/rest/</link>
+      <link>https://www.joei.tech/tags/rest/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/rest/</guid>
+      <guid>https://www.joei.tech/tags/rest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sdk</title>
-      <link>http://www.joei.tech/tags/sdk/</link>
+      <link>https://www.joei.tech/tags/sdk/</link>
       <pubDate>Sun, 12 Mar 2017 12:36:27 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/sdk/</guid>
+      <guid>https://www.joei.tech/tags/sdk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Speech Technology</title>
-      <link>http://www.joei.tech/tags/speech-technology/</link>
+      <link>https://www.joei.tech/tags/speech-technology/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/speech-technology/</guid>
+      <guid>https://www.joei.tech/tags/speech-technology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sqlite3</title>
-      <link>http://www.joei.tech/tags/sqlite3/</link>
+      <link>https://www.joei.tech/tags/sqlite3/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/sqlite3/</guid>
+      <guid>https://www.joei.tech/tags/sqlite3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text to Speech</title>
-      <link>http://www.joei.tech/tags/text-to-speech/</link>
+      <link>https://www.joei.tech/tags/text-to-speech/</link>
       <pubDate>Thu, 20 Aug 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/text-to-speech/</guid>
+      <guid>https://www.joei.tech/tags/text-to-speech/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Voice Recognition</title>
-      <link>http://www.joei.tech/tags/voice-recognition/</link>
+      <link>https://www.joei.tech/tags/voice-recognition/</link>
       <pubDate>Sun, 05 Jul 2015 12:00:00 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/voice-recognition/</guid>
+      <guid>https://www.joei.tech/tags/voice-recognition/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vyos</title>
-      <link>http://www.joei.tech/tags/vyos/</link>
+      <link>https://www.joei.tech/tags/vyos/</link>
       <pubDate>Fri, 12 May 2017 15:00:10 -0400</pubDate>
       <author>joe.v.iacoviello@gmail.com (Joseph Iacoviello)</author>
-      <guid>http://www.joei.tech/tags/vyos/</guid>
+      <guid>https://www.joei.tech/tags/vyos/</guid>
       <description></description>
     </item>
     
